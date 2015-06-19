@@ -1,0 +1,1 @@
+print [n for n in range(1,101) if not n%3 == 0]
